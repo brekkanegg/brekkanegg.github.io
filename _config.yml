@@ -1,3 +1,5 @@
+theme: jekyll-theme-cayman
+
 # Jekyll configuration
 markdown: kramdown
 # kramdown : markdown의 개조판.
@@ -127,4 +129,3 @@ exclude:
   - .travis.yml
   - node_modules
 
-theme: jekyll-theme-cayman
