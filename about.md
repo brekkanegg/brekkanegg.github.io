@@ -4,45 +4,45 @@ title: About
 permalink: /about/
 ---
 
-I love soccer, hiphop and scuba diving. 
+DL Engineer who loves soccer, hiphop and scuba diving.
+Previously worked as a DL researcher, recently got interested in MLOps.
 
 ### Education
+
 - M.S. in Industrial Engineering from [Seoul National University](http://www.snu.ac.kr), [Datamining Lab](http://www.dm.snu.ac.kr) *Advisior: Sungzoon Cho*.
 
 - B.S. in Industrial Engineering from [KAIST](http://www.kaist.ac.kr). 
 
 ### Interests
+
 Computer Vision, Deep Learning, MLOps
 
 ### Work Experience
+
 - **DL Platform Engineer**, [VUNO Inc.](https://vuno.co), Apr. 2021 ~ Present, *Alternative military service. MLOps* 
 
-- **DL Researcher**, [VUNO Inc.](https://vuno.co), Aug. 2018 ~ Apr 2021, *Alternative military service. Developed deep learning algorithms against various problems occurring in chest radiographs and coronay ct angiography.* 
+- **DL Researcher**, [VUNO Inc.](https://vuno.co), Aug. 2018 ~ Apr. 2021, *Alternative military service. Developed deep learning algorithms in chest radiographs and coronay ct angiography.* 
 
-- **Intern**, [Kiswe Mobile.](https://www.kiswe.com), Aug. 2018 ~ Apr 2021, *Developed a prototype to provide an interactive experience for users watching sports through the Kiswe Android mobile app.* 
+- **Intern**, [Kiswe Mobile.](https://www.kiswe.com), May. 2016 ~ Aug. 2016, *Developed a prototype to provide an interactive experience for users watching sports through the Kiswe Android mobile app.* 
 
-- **Freelancer**, [Mozzet](https://mozzet.com), Aug. 2018 ~ Apr 2021, *Developed an automatic face beauty scoring model for mobile applications with deep learning.* 
+- **Freelancer**, [Mozzet](https://mozzet.com), May. 2016 ~ Dec. 2016, *Developed an automatic face beauty scoring model for mobile applications with deep learning.* 
 
 ### Research Experience
-- **Undergraduate Research Assistant**, Samsung Medical Center, Sungkyunkwan University School of Medicine, Jan. 2016 ~ Mar. 2018. *Developed deep learning based medical imaging models and GUI tools.*
 
-- **Undergraduate Research Intern**, Data Engineering Lab, Sogang University, Aug. 2016 ~ Sep. 2016. *Developed data preparation pipeline for NLP projects.*
+- **Industry Academic Cooperation**, Samsung Electronics, Mar. 2017 ~ Dec. 2017. *Developed an unsupervised anomaly detection algorithms for edge devices.*
+
+- **Industry Academic Cooperation**, LG Electronics, Jan. 2018 ~ Apr. 2018. *Developed semi-supervised learning based air conditioning load prediction model.*
 
 ### In-Campus Activities
 
-- **President**, Illusion[Release](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
-- **Team Leader**, Engineer Without Borders[EWB-Kaist](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
-- **President**, Illusion[Release](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
-- **President**, Illusion[Release](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
+- **President**, Illusion(Hiphop dance crew) @ KAIST, Mar. 2012 ~ Dec. 2012, 
+- **Team Welfare**, Engineer Without Borders @ KAIST, Mar. 2014 ~ Feb. 2015, *Visited Nepal Nangi village, and developed smokeless stove*
+- **Exchange Student**, [Tsinghua University](https://www.tsinghua.edu.cn/en/) @ Beijing, Mar. 2015 ~ Aug. 2015, 
 
 ### Off-Campus Activities
 
-- **President**, Illusion[Release](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
-- **President**, Illusion[Release](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
-- **President**, Illusion[Release](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
-- **President**, Illusion[Release](http://release.sogang.ac.kr/)(Hiphop dance crew) @ KAIST, Mar. 2015 ~ Mar. 2016, *Organized various seminars, hackathons and workshops for students at Sogang.*
-
-
+- **Marketer**, Cledor Marketing Adventure 9th @ Binggrae, Jun. 2013 ~ Aug. 2013, 
+- **Mentor**, STX Volunteer @ Daejeon, Oct. 2012 ~ Jan. 2014, 
 
 ### Awards
 - 1st prize Undergraduate Contest, Korean Institute of Industrial Engineers(KIIE), Sep, 2015.
