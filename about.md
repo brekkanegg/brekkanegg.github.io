@@ -21,7 +21,7 @@ Computer Vision, Deep Learning, MLOps
 
 - **DL Platform Engineer**, [VUNO Inc.](https://vuno.co), Apr. 2021 ~ Present. *Alternative military service. Dealing with MLOps.* 
 
-- **DL Researcher**, [VUNO Inc.](https://vuno.co), Aug. 2018 ~ Apr. 2021. *Alternative military service. Developed deep learning algorithms in chest radiographs and coronay ct angiography.* 
+- **DL Researcher**, [VUNO Inc.](https://vuno.co), Aug. 2018 ~ Apr. 2021. *Alternative military service. Developed deep learning algorithms mainly in lesion detection in chest radiographs. Also tackled detecting coronary artery diseases for a while.* 
 
 - **Intern**, [Kiswe Mobile.](https://www.kiswe.com), May. 2016 ~ Aug. 2016. *Developed a prototype to provide an interactive experience for users watching sports through the Kiswe Android mobile app.* 
 
@@ -36,7 +36,7 @@ Computer Vision, Deep Learning, MLOps
 ### In-Campus Activities
 
 - **President**, Illusion(Hiphop dance crew) @ KAIST, Mar. 2012 ~ Dec. 2012. 
-- **Team Welfare**, Engineer Without Borders @ KAIST, Mar. 2014 ~ Feb. 2015. *Visited Nepal Nangi village developing smokeless stove.*
+- **Team Welfare**, Engineer Without Borders @ KAIST, Mar. 2014 ~ Feb. 2015. *Visited Nepal Nangi village and developed smokeless stove.*
 - **Exchange Student**, [Tsinghua University](https://www.tsinghua.edu.cn/en/) @ Beijing, Mar. 2015 ~ Aug. 2015. 
 
 ### Off-Campus Activities
