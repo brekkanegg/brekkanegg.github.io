@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Full-stack developer who loves soccer, hiphop and scuba diving.
+AI Enthusiast who loves soccer, hiphop and scuba diving.
 From deep learning researcher to MLOps engineer to full-stack developer with the help of chat-gpt.
 
 ### Education
@@ -15,7 +15,7 @@ From deep learning researcher to MLOps engineer to full-stack developer with the
 
 ### Interests
 
-MLOps, LLM
+MLOps, LLM, Live Services
 
 ### Work Experience
 
