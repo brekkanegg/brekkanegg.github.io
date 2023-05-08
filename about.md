@@ -13,10 +13,6 @@ From deep learning researcher to MLOps engineer to full-stack developer with the
 
 - B.S. in Industrial Engineering from [KAIST](http://www.kaist.ac.kr).
 
-### Interests
-
-MLOps, LLM, Live Services
-
 ### Work Experience
 
 - **MLOps Engineer**, [KRAFTON Inc.](https://kraton.com), Jul. 2021 ~ Mar. 2023. _Deployed an AI-powered text to speech live service._
@@ -55,8 +51,8 @@ MLOps, LLM, Live Services
 - DL: PyTorch
 - CI/CD: Kubernetes, Terraform, GitHub Action
 - Platform: AWS
-- Frontend: Typescript, React, NextJs
-- Backend: FastAPI, NodeJs, NestJs
+- Frontend: Typescript, React, Next.js
+- Backend: FastAPI, Node, Nest.js
 - Languages: English(IBT 204, TEPS 874), Chinese(HSK 4), Korean(mother tongue)
 
 ### Contact me
