@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 AI Enthusiast who loves soccer, hiphop and scuba diving.
-From deep learning researcher to MLOps engineer to full-stack developer with the help of chat-gpt.
+From deep learning researcher to MLOps engineer to full-stack developer with the help of ChatGPT.
 
 ### Education
 
@@ -48,11 +48,11 @@ From deep learning researcher to MLOps engineer to full-stack developer with the
 
 ### Skills
 
-- DL: PyTorch
+- Deep Learning: PyTorch
 - CI/CD: Kubernetes, Terraform, GitHub Action
 - Platform: AWS
-- Frontend: Typescript, React, Next.js
-- Backend: FastAPI, Node, Nest.js
+- Frontend: React, Next.js
+- Backend: FastAPI, Nest.js
 - Languages: English(IBT 204, TEPS 874), Chinese(HSK 4), Korean(mother tongue)
 
 ### Contact me
