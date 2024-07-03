@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 AI Enthusiast who loves soccer, hiphop and scuba diving.
-From deep learning researcher to MLOps engineer to full-stack developer with the help of ChatGPT.
+From deep learning researcher to MLOps engineer to full-stack developer.
 
 ### Education
 
@@ -15,9 +15,11 @@ From deep learning researcher to MLOps engineer to full-stack developer with the
 
 ### Work Experience
 
+- **CTO and Co-Founder**, [Harpy Chat](https://harpy.chat), Mar. 2023 ~ Mar. 2024. _Responsible for all the technology required for product development._
+
 - **MLOps Engineer**, [KRAFTON Inc.](https://kraton.com), Jul. 2021 ~ Mar. 2023. _Deployed an AI-powered text to speech live service._
 
-- **DL Platform Engineer**, [VUNO Inc.](https://vuno.co), Apr. 2021 ~ Present. _Alternative military service. Dealing with MLOps._
+- **DL Platform Engineer**, [VUNO Inc.](https://vuno.co), Apr. 2021 ~ Jun. 2021. _Alternative military service. Dealing with MLOps._
 
 - **DL Researcher**, [VUNO Inc.](https://vuno.co), Aug. 2018 ~ Apr. 2021. _Alternative military service. Developed deep learning algorithms mainly in lesion detection in chest radiographs. Also tackled detecting coronary artery diseases for a while._
 
@@ -49,7 +51,7 @@ From deep learning researcher to MLOps engineer to full-stack developer with the
 ### Skills
 
 - Deep Learning: PyTorch
-- CI/CD: Kubernetes, Terraform, GitHub Action
+- Infra: Kubernetes, Terraform, GitHub Action
 - Platform: AWS
 - Frontend: React, Next.js
 - Backend: FastAPI, Nest.js
